@@ -11,7 +11,7 @@ GPS++ 功能强大的iOS位置工具
 
 
 
-<!-- 图片左右排列 -->
+<!-- 图片左右排列  -->
 <div style="display: flex; justify-content: space-evenly; align-items: center; width: 100%; overflow: auto; gap: 40px;">
     <img src="./1.png" alt="Preview" width="1200" />
     <img src="./2.png" alt="Preview" width="1200" />
